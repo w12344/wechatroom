@@ -1,6 +1,6 @@
 # wechatroom
 
-> A Vue.js project
+> vue + framework7 + socket.io搭建的一款聊天工具
 
 ## Build Setup
 
